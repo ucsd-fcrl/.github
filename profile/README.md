@@ -5,15 +5,22 @@ This site serves as the home for software development by the laboratory. If you 
 
 ## Public Repositories (reverse chronological order)
 
-1. Gupta, Kunal et al. “Octree Representation Improves Data Fidelity of Cardiac CT Images and Convolutional Neural Network Semantic Segmentation of Left Atrial and Ventricular Chambers.” Radiology. Artificial intelligence vol. 3,6 e210036. 29 Sep. 2021, doi:10.1148/ryai.2021210036
+1. Gupta, Kunal et al. “Neural Computed Tomography.” arXiv. Jan 2022. doi:10.48550/arXiv.2201.06574
+    - [Code Repository](https://kunalmgupta.github.io/projects/NeuralCT.html)
+    - [Manuscript (arXiv)](https://arxiv.org/abs/2201.06574)
+
+
+2. Gupta, Kunal et al. “Octree Representation Improves Data Fidelity of Cardiac CT Images and Convolutional Neural Network Semantic Segmentation of Left Atrial and Ventricular Chambers.” Radiology. Artificial intelligence vol. 3,6 e210036. 29 Sep. 2021, doi:10.1148/ryai.2021210036
     - [Code Repository](https://github.com/ucsd-fcrl/med-img-octnet-adaptation)
     - [Manuscript (Pubmed)](https://pubmed.ncbi.nlm.nih.gov/34870221/)
 
-2. Colvert, Brendan et al. “Heart-centered positioning and tailored beam-shaping filtration for reduced radiation dose in coronary artery calcium imaging: A Multi-Ethnic Study of Atherosclerosis (MESA) Study.” Medical physics vol. 48,9 (2021): 4966-4977. doi:10.1002/mp.15106
+
+3. Colvert, Brendan et al. “Heart-centered positioning and tailored beam-shaping filtration for reduced radiation dose in coronary artery calcium imaging: A Multi-Ethnic Study of Atherosclerosis (MESA) Study.” Medical physics vol. 48,9 (2021): 4966-4977. doi:10.1002/mp.15106
     - [Code Repository](https://github.com/ucsd-fcrl/autoseg_deploy)
     - [Manuscript (Pubmed)](https://pubmed.ncbi.nlm.nih.gov/34287949/)
 
-3. Chen, Zhennong et al. “Automated cardiac volume assessment and cardiac long- and short-axis imaging plane prediction from electrocardiogram-gated computed tomography volumes enabled by deep learning.” European heart journal. Digital health vol. 2,2 311-322. 22 Mar. 2021, doi:10.1093/ehjdh/ztab033
+
+4. Chen, Zhennong et al. “Automated cardiac volume assessment and cardiac long- and short-axis imaging plane prediction from electrocardiogram-gated computed tomography volumes enabled by deep learning.” European heart journal. Digital health vol. 2,2 311-322. 22 Mar. 2021, doi:10.1093/ehjdh/ztab033
     - [Code Repository](https://github.com/ucsd-fcrl/AI_chamber_segmentation_plane_re-slicing)
     - [Manuscript (Pubmed)](https://pubmed.ncbi.nlm.nih.gov/34223176/)
 
