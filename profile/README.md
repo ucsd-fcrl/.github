@@ -6,7 +6,7 @@ This site serves as the home for software development by the laboratory. If you 
 ## Public Repositories (reverse chronological order)
 
 1. Gupta, Kunal et al. “Neural Computed Tomography.” arXiv. Jan 2022. doi:10.48550/arXiv.2201.06574
-    - [Code Repository](https://kunalmgupta.github.io/projects/NeuralCT.html)
+    - [Code Repository](https://github.com/KunalMGupta/DIFIR-CT)
     - [Manuscript (arXiv)](https://arxiv.org/abs/2201.06574)
 
 
