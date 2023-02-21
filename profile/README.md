@@ -5,9 +5,9 @@ This site serves as the home for software development by the laboratory. If you 
 
 ## Public Repositories (reverse chronological order)
 
-1. Gupta, Kunal et al. “Neural Computed Tomography.” arXiv. Jan 2022. doi:10.48550/arXiv.2201.06574
+1. Gupta, Kunal et al. "DiFiR-CT: Distance field representation to resolve motion artifacts in computed tomography." Medical Physics. In Press; PMID: 36515381.
     - [Code Repository](https://github.com/KunalMGupta/DIFIR-CT)
-    - [Manuscript (arXiv)](https://arxiv.org/abs/2201.06574)
+    - [Manuscript (Pubmed)](https://pubmed.ncbi.nlm.nih.gov/36515381/)
 
 
 2. Gupta, Kunal et al. “Octree Representation Improves Data Fidelity of Cardiac CT Images and Convolutional Neural Network Semantic Segmentation of Left Atrial and Ventricular Chambers.” Radiology. Artificial intelligence vol. 3,6 e210036. 29 Sep. 2021, doi:10.1148/ryai.2021210036
